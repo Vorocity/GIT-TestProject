@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved. Small change
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved. Making this change on CAD.
 
 #include "GIT_TestProject.h"
 #include "Modules/ModuleManager.h"
